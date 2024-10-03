@@ -7,7 +7,7 @@ The data were various tables that were stored in CSV files. The tables include d
 ## Project Task
 The library had requests for certain information to be added or deleted from the database.  Records that fulfilled certain conditions were also requested.
 
-Process 
+## Process 
 The project started by first creating the database and adding tables to contain the data provided in the CSV.
 This was done using POSTGRES SQL. 
 
